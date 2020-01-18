@@ -3,10 +3,6 @@ Simple HTML5 Resume of Software Engineer  that can make changes easily and print
 
 New Users can Edit this to make there own Resume or CV and upload to thier respective websites. 
 
-## Preview
-
-![alt tag](http://velusgautam.com/velusgautam-resume.png)
-
 ## Dependencies
 
 1. Resume.css for styling
